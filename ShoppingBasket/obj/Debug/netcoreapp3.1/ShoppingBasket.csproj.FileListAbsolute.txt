@@ -1,0 +1,9 @@
+D:\Srdjan documents\Apps\ShoppingBasket\ShoppingBasket\bin\Debug\netcoreapp3.1\ShoppingBasket.deps.json
+D:\Srdjan documents\Apps\ShoppingBasket\ShoppingBasket\bin\Debug\netcoreapp3.1\ShoppingBasket.dll
+D:\Srdjan documents\Apps\ShoppingBasket\ShoppingBasket\bin\Debug\netcoreapp3.1\ShoppingBasket.pdb
+D:\Srdjan documents\Apps\ShoppingBasket\ShoppingBasket\obj\Debug\netcoreapp3.1\ShoppingBasket.csprojAssemblyReference.cache
+D:\Srdjan documents\Apps\ShoppingBasket\ShoppingBasket\obj\Debug\netcoreapp3.1\ShoppingBasket.AssemblyInfoInputs.cache
+D:\Srdjan documents\Apps\ShoppingBasket\ShoppingBasket\obj\Debug\netcoreapp3.1\ShoppingBasket.AssemblyInfo.cs
+D:\Srdjan documents\Apps\ShoppingBasket\ShoppingBasket\obj\Debug\netcoreapp3.1\ShoppingBasket.csproj.CoreCompileInputs.cache
+D:\Srdjan documents\Apps\ShoppingBasket\ShoppingBasket\obj\Debug\netcoreapp3.1\ShoppingBasket.dll
+D:\Srdjan documents\Apps\ShoppingBasket\ShoppingBasket\obj\Debug\netcoreapp3.1\ShoppingBasket.pdb
